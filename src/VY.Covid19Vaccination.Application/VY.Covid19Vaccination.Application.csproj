@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VY.Covid19Vaccination.Domain\VY.Covid19Vaccination.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
